@@ -1,1 +1,3 @@
 # Plot
+
+Mostrar gráficos.
